@@ -1,4 +1,4 @@
-# Gestion de Pharmacie
+# Gestion de Pharmacie | Contrôle Continu en POO 2024-02-06
 
 Ce projet implémente un système de gestion pour une pharmacie. Il permet de suivre les clients, les médicaments, d'effectuer des approvisionnements en médicaments, et de traiter les achats des clients.
 
