@@ -15,6 +15,3 @@ Si vous trouvez des erreurs logiques, des améliorations potentielles, ou des fa
 2. **Proposer des Modifications :** Si vous avez des corrections ou des améliorations à apporter au code, n'hésitez pas à [créer pull request](https://github.com/abelmou/Master-IARV/pulls) avec vos modifications. Nous serons ravis de les examiner.
 
 Votre contribution est appréciée et contribuera à rendre ce projet meilleur pour tous !
-
-https://github.com/abelmou/Master-IARV/issues
-https://github.com/abelmou/Master-IARV/pulls
