@@ -16,5 +16,5 @@ Si vous trouvez des erreurs logiques, des améliorations potentielles, ou des fa
 
 Votre contribution est appréciée et contribuera à rendre ce projet meilleur pour tous !
 
-![https://github.com/abelmou/Master-IARV/issues]: https://github.com/abelmou/Master-IARV/issues
-![https://github.com/abelmou/Master-IARV/pulls]: https://github.com/abelmou/Master-IARV/pulls
+https://github.com/abelmou/Master-IARV/issues
+https://github.com/abelmou/Master-IARV/pulls
